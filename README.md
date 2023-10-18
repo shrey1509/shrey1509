@@ -3,8 +3,8 @@ Hey there! 👋 I'm Shreyas Dorle, a passionate developer with over 2 years of e
 
 
 ### Professional Experience
-Currently involved in creating industry-leading web applications for a community and AI-based multi-product startup.
-Thrived as a freelancer, collaborating closely with local clients in tight-knit teams.
+Currently involved in creating industry-leading web applications for Vadoo, a community and AI-based multi-product startup.
+Before that, thrived as a freelancer, collaborating closely with local clients in tight-knit teams.
 
 ### Working Experience in
 - Frontend: HTML, CSS, React, Next.js, Bootstrap
